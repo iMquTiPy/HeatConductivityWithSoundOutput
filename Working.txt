@@ -1,0 +1,8 @@
+-> To demonstrate heat conductivity with sound output we have used a strip of metal and heated it using a transistor circuit.
+-> The metal strip gets heated because of the thermal power loss that occurs in the transistor.
+-> The thermal power is determined by the collector current Ic and the voltage Vce across the transistor given by the equation:- 
+        P = Ic × Vce
+->On the strip, we have drilled holes at 2-3 cm distance, and filled the holes with wax & attach a piece of nail in the hole with the wax.
+->Below this setup we have put a xylophone. As the strip is heated, the wax in the nearest hole melts and the nail falls down and generates a sound.
+-> As heat conducts across the strip, wax melts and falling nails produce sound.
+
